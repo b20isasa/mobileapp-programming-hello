@@ -3,8 +3,20 @@
 
 **Skriv din rapport här!**
 
-_Du kan ta bort all text som finns sedan tidigare_.
 
+Först så skapade jag ett Github konto, sedan Fork:ade jag "mobileapp-programming-hello", sedan så klickade jag på "project from version control". 
+Efter så ändrade jag från "Hello world" till .... 
+![img.png](img.png)
+
+den enda koden jag har ändrat är färgerna: 
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA07A</color>
+    <color name="colorPrimaryDark">#E9967A</color>
+    <color name="colorAccent">#FA8072</color>
+</resources>
+Koden över bestämmer vilka färger som visas i applikationen. Jag valde dock att använda "colorAccent" som bakgrundsfärgen också. 
+ och texten som finns i skärmdumpen. 
 ## Följande grundsyn gäller dugga-svar:
 
 - Ett kortfattat svar är att föredra. Svar som är längre än en sida text (skärmdumpar och programkod exkluderat) är onödigt långt.
